@@ -5,3 +5,5 @@
 5. git log
 6. git checkout -- .
 7. git commit -amend .           para editar presionar (i) y para salir del editor primero esc y luego (:wq!)
+8. git branch
+9. git checkout -b rama-login
