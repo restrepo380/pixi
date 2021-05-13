@@ -13,5 +13,11 @@
 
 
 13. git remote add origin https://github.com/restrepo380/pixi
+14. git push origin HEAD:master
 14. git branch -M main
 15. git push -u origin main
+
+
+
+
+16. Actualización
